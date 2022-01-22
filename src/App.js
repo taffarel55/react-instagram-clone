@@ -1,22 +1,15 @@
-import logo from "./logo.svg";
 import "./App.css";
+// import { useState } from "react";
+import Login from "./pages/Login";
 
 function App() {
+  // const [count, setCount] = useState(0);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Testando o Github Actions</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      {/* <button>Clique aqui!</button> */}
+      <Login />
+    </>
   );
 }
 

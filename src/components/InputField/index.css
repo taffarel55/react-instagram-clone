@@ -1,0 +1,13 @@
+.InputField {
+  all: unset;
+  box-sizing: border-box;
+  width: 100%;
+  background: #fafafa;
+  border: 1px solid #dbdbdb;
+  padding: 9px 0px 7px 8px;
+  color: rgb(38, 38, 38);
+  font-size: 12px;
+  line-height: 18px;
+  margin-bottom: 6px;
+  border-radius: 4px;
+}

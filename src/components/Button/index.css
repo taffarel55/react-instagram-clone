@@ -1,0 +1,14 @@
+.Button {
+  all: unset;
+  box-sizing: border-box;
+  background: #b2dffc;
+  color: white;
+  padding: 5px 9px;
+  width: 100%;
+  text-align: center;
+  height: 30px;
+  border-radius: 4px;
+  margin: 10px auto;
+  font-weight: 600;
+  cursor: default;
+}

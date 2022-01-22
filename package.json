@@ -1,6 +1,6 @@
 {
-  "name": "react-instagram-clone",
-  "homepage": "https://taffarel55.github.io/react-instagram-clone",
+  "name": "react-insta-clone",
+  "homepage": "https://taffarel55.github.io/react-insta-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "ghpages": "^0.0.10"
   }
 }

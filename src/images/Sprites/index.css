@@ -1,0 +1,19 @@
+.Logo {
+  background-image: url("./sprites.png");
+
+  background-repeat: no-repeat;
+  background-position: 0 -130px;
+  height: 51px;
+  width: 175px;
+
+  margin: 22px auto 12px;
+}
+
+.FacebookLogo {
+  background-image: url("./sprites.png");
+
+  background-repeat: no-repeat;
+  background-position: -414px -259px;
+  height: 16px;
+  width: 16px;
+}

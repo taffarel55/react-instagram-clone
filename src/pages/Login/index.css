@@ -1,0 +1,98 @@
+.Login {
+  background: #fafafa;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 10px;
+}
+
+.form {
+  padding: 20px 0;
+}
+
+.form-div {
+  overflow: hidden;
+  text-align: center;
+  color: #8e8e8e;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 600;
+  margin: 10px auto 18px auto;
+}
+
+.form-div:before,
+.form-div:after {
+  background-color: #bdbdbd;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.form-div:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+
+.form-div:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+
+.facebook-button {
+  cursor: pointer;
+  height: 21px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.facebook-text {
+  color: #385185;
+  height: 14px;
+  font-weight: 600;
+}
+
+.forget {
+  display: block;
+  margin-top: 12px;
+  text-decoration: none;
+  color: #00376b;
+  font-size: 12px;
+  line-height: 16px;
+  margin-top: 12px;
+  text-align: center;
+}
+
+.sign-up__box {
+  text-align: center;
+}
+
+.sign-up__box a {
+  color: #0095f6;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.get-app {
+  margin: 10px 20px;
+}
+
+.get-app__imgs {
+  display: flex;
+  gap: 8px;
+}
+
+.get-app__imgs img {
+  width: 136px;
+}
