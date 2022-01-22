@@ -4,4 +4,8 @@ const CardBox = ({ children }) => {
   return <div className="CardBox">{children}</div>;
 };
 
-export default CardBox;
+const CardBoxStore = ({ children }) => {
+  return <div className="CardBox-store">{children}</div>;
+};
+
+export { CardBox, CardBoxStore };

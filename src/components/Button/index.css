@@ -12,3 +12,8 @@
   font-weight: 600;
   cursor: default;
 }
+
+.active {
+  background: #0095f6;
+  cursor: pointer;
+}

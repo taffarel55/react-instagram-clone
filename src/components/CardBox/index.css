@@ -6,3 +6,21 @@
   height: auto;
   padding: 20px 40px;
 }
+
+.CardBox-store {
+  width: 350px;
+  height: auto;
+  padding: 0px;
+}
+
+@media only screen and (max-width: 350px) {
+  .CardBox {
+    width: 100%;
+    background: inherit;
+    border: none;
+  }
+  .CardBox-store {
+    width: 100%;
+    padding-bottom: 30px;
+  }
+}
