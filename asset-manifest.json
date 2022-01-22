@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react-instagram-clone/static/css/main.4321ae11.css",
-    "main.js": "/react-instagram-clone/static/js/main.d5292b86.js",
+    "main.css": "/react-instagram-clone/static/css/main.7a5bae9b.css",
+    "main.js": "/react-instagram-clone/static/js/main.3aa493d6.js",
+    "static/media/background.png": "/react-instagram-clone/static/media/background.3686ea841c61da4e3863.png",
     "static/media/sprites.png": "/react-instagram-clone/static/media/sprites.077eb7ffb286586d2256.png",
     "static/media/googlePlay.png": "/react-instagram-clone/static/media/googlePlay.efce43f0d6280f0558d2.png",
     "index.html": "/react-instagram-clone/index.html",
-    "main.4321ae11.css.map": "/react-instagram-clone/static/css/main.4321ae11.css.map",
-    "main.d5292b86.js.map": "/react-instagram-clone/static/js/main.d5292b86.js.map"
+    "main.7a5bae9b.css.map": "/react-instagram-clone/static/css/main.7a5bae9b.css.map",
+    "main.3aa493d6.js.map": "/react-instagram-clone/static/js/main.3aa493d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.4321ae11.css",
-    "static/js/main.d5292b86.js"
+    "static/css/main.7a5bae9b.css",
+    "static/js/main.3aa493d6.js"
   ]
 }
