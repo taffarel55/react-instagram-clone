@@ -8,8 +8,12 @@
   display: flex;
 }
 
-.login-background {
+.login-left {
   display: none;
+}
+
+.login-background {
+  position: relative;
 }
 
 .login-card {
@@ -22,16 +26,14 @@
   gap: 10px;
 }
 
-/* .image-slider {
+.image-slider {
   width: 240px;
   height: 427px;
-  position: relative;
-  top: 90px;
-  left: auto;
-  right: 0;
-
+  position: absolute;
+  top: 100px;
+  right: 63px;
   background-color: red;
-} */
+}
 
 @media only screen and (min-width: 876px) {
   .login-card {
@@ -40,9 +42,15 @@
   }
   .login-background {
     background: #fafafa url("background.png") no-repeat right center;
-    display: block;
+    width: 454px;
+    height: 618px;
+  }
+  .login-left {
     width: 50%;
     height: auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
   }
 }
 

@@ -62,8 +62,10 @@ function Login() {
   return (
     <div className="Login">
       <div className="Login-main">
-        <div className="login-background">
-          <div className="image-slider"></div>
+        <div className="login-left">
+          <div className="login-background">
+            <div className="image-slider"></div>
+          </div>
         </div>
         <div className="login-card">
           <CardBox>
